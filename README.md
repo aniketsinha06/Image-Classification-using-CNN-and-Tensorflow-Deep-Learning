@@ -9,7 +9,3 @@ Classification of a given image into its class using Convolutional Neural Networ
 3. Numpy
 4. Matplotlib
 
-
-
-<img src="https://github.com/aniketsinha06/Real-Estate-Price-Prediction-and-Flask-API-Data-Science/blob/master/Photos/Price1.jpg" alt="Logo" style="max-width:100%;">
-<video src="https://github.com/aniketsinha06/Image-Classification-using-CNN-and-Tensorflow-Deep-Learning/Video/image_classification.mp4" video = "web/mp4" controls></video>
