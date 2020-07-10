@@ -12,3 +12,6 @@ Classification of a given image into its class using Convolutional Neural Networ
 ### Combined with Virtual Assistant
 
 Images classification project is combined with Virtual Assistant project to identify image on voice command.
+Project video can be found here : </br>
+<a href =  "https://github.com/aniketsinha06/Image-Classification-using-CNN-and-Tensorflow-Deep-Learning/tree/master/Video">Image Classification on voice command</a></br>
+
